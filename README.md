@@ -91,4 +91,4 @@ git archive --format=zip --prefix=cifrado-datos/ -o entrega.zip HEAD
 
 ## Autor
 
-Andrés Felipe Cabezas – Maestría en Inteligencia Artificial, Universidad de La Salle.
+Andrés Felipe Cabeza Serrano – Maestría en Inteligencia Artificial, Universidad de La Salle.

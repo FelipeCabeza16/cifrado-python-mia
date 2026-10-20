@@ -6,7 +6,7 @@ from cifrado.ui.ventana_cifrado import VentanaCifrado
 from cifrado.ui.ventana_descifrado import VentanaDescifrado
 
 AUTOR = {
-    "Estudiante": "Andrés Felipe Cabezas",
+    "Estudiante": "Andrés Felipe Cabeza Serrano",
     "Programa": "Maestría en Inteligencia Artificial",
     "Universidad": "Universidad de La Salle",
     "Asignatura": "Aplicaciones",
