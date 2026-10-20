@@ -9,6 +9,7 @@ class VentanaCifrado(tk.Toplevel):
     def __init__(self, padre):
         super().__init__(padre)
         self.title("Cifrado de datos")
+        self.minsize(320, 0)
         self.resizable(False, False)
         self.entrada = tk.StringVar()
         self.resultado = tk.StringVar(value="—")
